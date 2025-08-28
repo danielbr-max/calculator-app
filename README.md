@@ -1,4 +1,5 @@
 # 🧮 Calculator App
+
 ## 📸 Screenshot
 
 ![Calculator Screenshot](screenshot.png)
